@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hishahzie.programming-by-demonstration.org/sitemap.xml
